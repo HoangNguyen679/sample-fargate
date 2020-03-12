@@ -1,3 +1,3 @@
 # sample-fargate
 
-github ActionsでのAWS Fargateのデプロイ
+github ActionsでのAmazon ECS on AWS Fargate
